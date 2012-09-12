@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="hello">Click the button to increment the counter</string>
-    <string name="app_name">ButtonCounter</string>
+    <string name="app_name">HellowWorld</string>
 </resources>
